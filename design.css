@@ -1,0 +1,76 @@
+body{
+    background-color: aliceblue;
+}
+.btn{
+    background-color: brown;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    display: inline-block;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.ajoute{
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    text-decoration: none;
+    display: inline-block;
+}
+.ajoute:hover{
+    background-color: blue;
+    color: white;
+}
+
+.mod{
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+.mod:hover{
+    background-color:blueviolet;
+    color:black;
+}
+
+.sup{
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.sup:hover{
+    background-color: black;
+    color: white;
+}
+
+.pagi{
+    background-color: burlywood;
+    border: 2px solid black;
+    padding: 8px 12px;
+    
+    margin: 5px;
+    display: inline-block;
+}
+.pagi:hover{
+    background-color: black;
+    color: white;
+}
+.md{
+    background-color: darkgreen;
+    background-color: black;
+    padding: 15px 10px ;
+}
+
